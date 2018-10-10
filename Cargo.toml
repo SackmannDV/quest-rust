@@ -1,0 +1,8 @@
+[package]
+name = "adivinaza"
+version = "0.1.0"
+authors = ["SackmannDV <blassackmann@gmail.com>"]
+
+[dependencies]
+
+rand = "0.5.4"
